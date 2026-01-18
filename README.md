@@ -155,8 +155,7 @@ Contributions are welcome! Feel free to:
 
 ### Contributors
 
-- **RyderBlack** - *Initial work*
-
+- **RyderBlack**
 ## 📄 License
 
 This project is licensed under the MIT License - see below for details:
